@@ -1,0 +1,956 @@
+[
+  {
+    "id": "11000000",
+    "type": "L1",
+    "name": "Mineral and Textile and Inedible Plant and Animal Materials",
+    "active": true,
+    "children": [
+      {
+        "id": "11100000",
+        "type": "L2",
+        "name": "Minerals and ores and metals",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11101500",
+            "type": "L3",
+            "name": "Minerals",
+            "active": true,
+            "parentId": "11100000"
+          },
+          {
+            "id": "11101600",
+            "type": "L3",
+            "name": "Ores",
+            "active": true,
+            "parentId": "11100000"
+          },
+          {
+            "id": "11101700",
+            "type": "L3",
+            "name": "Base Metals",
+            "active": true,
+            "parentId": "11100000"
+          },
+          {
+            "id": "11101800",
+            "type": "L3",
+            "name": "Precious metals",
+            "active": true,
+            "parentId": "11100000"
+          },
+          {
+            "id": "11101900",
+            "type": "L3",
+            "name": "Intermediate processed and refined ore products",
+            "active": true,
+            "parentId": "11100000"
+          }
+        ]
+      },
+      {
+        "id": "11110000",
+        "type": "L2",
+        "name": "Earth and stone",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11111500",
+            "type": "L3",
+            "name": "Dirt and soil",
+            "active": true,
+            "parentId": "11110000"
+          },
+          {
+            "id": "11111600",
+            "type": "L3",
+            "name": "Stone",
+            "active": true,
+            "parentId": "11110000"
+          },
+          {
+            "id": "11111700",
+            "type": "L3",
+            "name": "Sand",
+            "active": true,
+            "parentId": "11110000"
+          },
+          {
+            "id": "11111800",
+            "type": "L3",
+            "name": "Clays",
+            "active": true,
+            "parentId": "11110000"
+          },
+          {
+            "id": "11111900",
+            "type": "L3",
+            "name": "Decorative rock",
+            "active": true,
+            "parentId": "11110000"
+          }
+        ]
+      },
+      {
+        "id": "11120000",
+        "type": "L2",
+        "name": "Non edible plant and forestry products",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11121500",
+            "type": "L3",
+            "name": "Sap",
+            "active": true,
+            "parentId": "11120000"
+          },
+          {
+            "id": "11121600",
+            "type": "L3",
+            "name": "Wood",
+            "active": true,
+            "parentId": "11120000"
+          },
+          {
+            "id": "11121700",
+            "type": "L3",
+            "name": "Forestry byproducts",
+            "active": true,
+            "parentId": "11120000"
+          },
+          {
+            "id": "11121800",
+            "type": "L3",
+            "name": "Plant fibers",
+            "active": true,
+            "parentId": "11120000"
+          },
+          {
+            "id": "11121900",
+            "type": "L3",
+            "name": "Perfumery products",
+            "active": true,
+            "parentId": "11120000"
+          },
+          {
+            "id": "11122000",
+            "type": "L3",
+            "name": "Engineered wood products",
+            "active": true,
+            "parentId": "11120000"
+          }
+        ]
+      },
+      {
+        "id": "11130000",
+        "type": "L2",
+        "name": "Non edible animal products",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11131500",
+            "type": "L3",
+            "name": "Animal hides and skins and animal textile materials",
+            "active": true,
+            "parentId": "11130000"
+          },
+          {
+            "id": "11131600",
+            "type": "L3",
+            "name": "Other animal products",
+            "active": true,
+            "parentId": "11130000"
+          }
+        ]
+      },
+      {
+        "id": "11140000",
+        "type": "L2",
+        "name": "Scrap and waste materials",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11141600",
+            "type": "L3",
+            "name": "Non metallic waste and scrap",
+            "active": true,
+            "parentId": "11140000"
+          },
+          {
+            "id": "11141700",
+            "type": "L3",
+            "name": "Food and tobacco waste and scrap",
+            "active": true,
+            "parentId": "11140000"
+          }
+        ]
+      },
+      {
+        "id": "11150000",
+        "type": "L2",
+        "name": "Fibers and threads and yarns",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11151500",
+            "type": "L3",
+            "name": "Fibers",
+            "active": true,
+            "parentId": "11150000"
+          },
+          {
+            "id": "11151600",
+            "type": "L3",
+            "name": "Threads",
+            "active": true,
+            "parentId": "11150000"
+          },
+          {
+            "id": "11151700",
+            "type": "L3",
+            "name": "Yarns",
+            "active": true,
+            "parentId": "11150000"
+          }
+        ]
+      },
+      {
+        "id": "11160000",
+        "type": "L2",
+        "name": "Fabrics and leather materials",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11161500",
+            "type": "L3",
+            "name": "Silk fabrics",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11161600",
+            "type": "L3",
+            "name": "Wool fabrics",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11161700",
+            "type": "L3",
+            "name": "Cotton fabrics",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11161800",
+            "type": "L3",
+            "name": "Synthetic fabrics",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11162000",
+            "type": "L3",
+            "name": "Fabrics of vegetable material other than cotton",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11162100",
+            "type": "L3",
+            "name": "Specialty fabrics or cloth",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11162200",
+            "type": "L3",
+            "name": "Nonwoven fabrics",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11162300",
+            "type": "L3",
+            "name": "Leathers",
+            "active": true,
+            "parentId": "11160000"
+          },
+          {
+            "id": "11162400",
+            "type": "L3",
+            "name": "Batting",
+            "active": true,
+            "parentId": "11160000"
+          }
+        ]
+      },
+      {
+        "id": "11170000",
+        "type": "L2",
+        "name": "Alloys",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11171500",
+            "type": "L3",
+            "name": "Basic steels",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11171600",
+            "type": "L3",
+            "name": "Stainless steel alloys",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11171700",
+            "type": "L3",
+            "name": "High speed steels",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11171800",
+            "type": "L3",
+            "name": "Nickel based super alloys",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11171900",
+            "type": "L3",
+            "name": "Titanium based super alloys",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11172000",
+            "type": "L3",
+            "name": "Aluminum based alloys",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11172100",
+            "type": "L3",
+            "name": "Cobalt based super alloys",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11172200",
+            "type": "L3",
+            "name": "Magnesium based alloys",
+            "active": true,
+            "parentId": "11170000"
+          },
+          {
+            "id": "11172300",
+            "type": "L3",
+            "name": "Manganese based alloys",
+            "active": true,
+            "parentId": "11170000"
+          }
+        ]
+      },
+      {
+        "id": "11180000",
+        "type": "L2",
+        "name": "Metal oxide",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11181500",
+            "type": "L3",
+            "name": "Non ferrous metal oxides",
+            "active": true,
+            "parentId": "11180000"
+          }
+        ]
+      },
+      {
+        "id": "11190000",
+        "type": "L2",
+        "name": "Metal waste scrap and by products",
+        "active": true,
+        "parentId": "11000000",
+        "children": [
+          {
+            "id": "11191500",
+            "type": "L3",
+            "name": "Metal solids",
+            "active": true,
+            "parentId": "11190000"
+          },
+          {
+            "id": "11191600",
+            "type": "L3",
+            "name": "Metal scrap",
+            "active": true,
+            "parentId": "11190000"
+          },
+          {
+            "id": "11191700",
+            "type": "L3",
+            "name": "Turnings",
+            "active": true,
+            "parentId": "11190000"
+          },
+          {
+            "id": "11191800",
+            "type": "L3",
+            "name": "Metal byproducts",
+            "active": true,
+            "parentId": "11190000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12000000",
+    "type": "L1",
+    "name": "Chemicals including Bio Chemicals and Gas Materials",
+    "active": true,
+    "children": [
+      {
+        "id": "12130000",
+        "type": "L2",
+        "name": "Explosive materials",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12131500",
+            "type": "L3",
+            "name": "Explosives",
+            "active": true,
+            "parentId": "12130000"
+          },
+          {
+            "id": "12131600",
+            "type": "L3",
+            "name": "Pyrotechnics",
+            "active": true,
+            "parentId": "12130000"
+          },
+          {
+            "id": "12131700",
+            "type": "L3",
+            "name": "Igniters",
+            "active": true,
+            "parentId": "12130000"
+          },
+          {
+            "id": "12131800",
+            "type": "L3",
+            "name": "Propellants",
+            "active": true,
+            "parentId": "12130000"
+          }
+        ]
+      },
+      {
+        "id": "12140000",
+        "type": "L2",
+        "name": "Elements and gases",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12141500",
+            "type": "L3",
+            "name": "Earth metals",
+            "active": true,
+            "parentId": "12140000"
+          },
+          {
+            "id": "12141600",
+            "type": "L3",
+            "name": "Rare earth metals",
+            "active": true,
+            "parentId": "12140000"
+          },
+          {
+            "id": "12141700",
+            "type": "L3",
+            "name": "Transition metals",
+            "active": true,
+            "parentId": "12140000"
+          },
+          {
+            "id": "12141800",
+            "type": "L3",
+            "name": "Alkali metals",
+            "active": true,
+            "parentId": "12140000"
+          },
+          {
+            "id": "12141900",
+            "type": "L3",
+            "name": "Non metals and pure and elemental gases",
+            "active": true,
+            "parentId": "12140000"
+          },
+          {
+            "id": "12141909DRPaG6",
+            "type": "L3",
+            "name": "nsps",
+            "active": true
+          },
+          {
+            "id": "12142000",
+            "type": "L3",
+            "name": "Noble gases",
+            "active": true,
+            "parentId": "12140000"
+          },
+          {
+            "id": "12142100",
+            "type": "L3",
+            "name": "Industrial use gases",
+            "active": true,
+            "parentId": "12140000"
+          },
+          {
+            "id": "12142200",
+            "type": "L3",
+            "name": "Isotopes",
+            "active": true,
+            "parentId": "12140000"
+          }
+        ]
+      },
+      {
+        "id": "12160000",
+        "type": "L2",
+        "name": "Additives",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12161500",
+            "type": "L3",
+            "name": "Indicators and Reagents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12161600",
+            "type": "L3",
+            "name": "Catalysts",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12161700",
+            "type": "L3",
+            "name": "Buffers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12161800",
+            "type": "L3",
+            "name": "Colloids",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12161900",
+            "type": "L3",
+            "name": "Surfactants",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162000",
+            "type": "L3",
+            "name": "Plasticizers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162100",
+            "type": "L3",
+            "name": "Flame retardants",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162200",
+            "type": "L3",
+            "name": "Anti oxidants",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162300",
+            "type": "L3",
+            "name": "Curing agents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162400",
+            "type": "L3",
+            "name": "Polymer breakers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162500",
+            "type": "L3",
+            "name": "Emulsion breakers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162600",
+            "type": "L3",
+            "name": "Clay stabilizers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162700",
+            "type": "L3",
+            "name": "Fluid loss additives",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162800",
+            "type": "L3",
+            "name": "Friction reducers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12162900",
+            "type": "L3",
+            "name": "Paraffin asphaltene control agents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163000",
+            "type": "L3",
+            "name": "Mud removal mixtures",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163100",
+            "type": "L3",
+            "name": "Anti sludgers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163200",
+            "type": "L3",
+            "name": "Anti gas migration agents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163300",
+            "type": "L3",
+            "name": "Expanding agents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163400",
+            "type": "L3",
+            "name": "Extenders",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163500",
+            "type": "L3",
+            "name": "Oil well sealants",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163600",
+            "type": "L3",
+            "name": "Corrosion inhibitors",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163700",
+            "type": "L3",
+            "name": "Gas hydrate controllers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163800",
+            "type": "L3",
+            "name": "Chemical scavengers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12163900",
+            "type": "L3",
+            "name": "Scale controllers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164000",
+            "type": "L3",
+            "name": "Bactericides",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164100",
+            "type": "L3",
+            "name": "In situ",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164200",
+            "type": "L3",
+            "name": "Retarders",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164300",
+            "type": "L3",
+            "name": "Iron controllers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164400",
+            "type": "L3",
+            "name": "Non emulsifiers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164500",
+            "type": "L3",
+            "name": "Food or drug additives",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164600",
+            "type": "L3",
+            "name": "Paper plastic and fabric modifiers",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164700",
+            "type": "L3",
+            "name": "Industrial antiseptics",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164800",
+            "type": "L3",
+            "name": "Water reducing agents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12164900",
+            "type": "L3",
+            "name": "Waterproofing agents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12165000",
+            "type": "L3",
+            "name": "Non shrinkage agents",
+            "active": true,
+            "parentId": "12160000"
+          },
+          {
+            "id": "12165100",
+            "type": "L3",
+            "name": "Chemicals for enhanced oil recovery",
+            "active": true,
+            "parentId": "12160000"
+          }
+        ]
+      },
+      {
+        "id": "12170000",
+        "type": "L2",
+        "name": "Colorants",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12171500",
+            "type": "L3",
+            "name": "Dyes",
+            "active": true,
+            "parentId": "12170000"
+          },
+          {
+            "id": "12171600",
+            "type": "L3",
+            "name": "Pigments",
+            "active": true,
+            "parentId": "12170000"
+          },
+          {
+            "id": "12171700",
+            "type": "L3",
+            "name": "Color compounds and dispersions",
+            "active": true,
+            "parentId": "12170000"
+          }
+        ]
+      },
+      {
+        "id": "12180000",
+        "type": "L2",
+        "name": "Waxes and oils",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12181500",
+            "type": "L3",
+            "name": "Waxes",
+            "active": true,
+            "parentId": "12180000"
+          },
+          {
+            "id": "12181600",
+            "type": "L3",
+            "name": "Oils",
+            "active": true,
+            "parentId": "12180000"
+          }
+        ]
+      },
+      {
+        "id": "12190000",
+        "type": "L2",
+        "name": "Solvents",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12191500",
+            "type": "L3",
+            "name": "Hydrocarbonated solvents",
+            "active": true,
+            "parentId": "12190000"
+          },
+          {
+            "id": "12191600",
+            "type": "L3",
+            "name": "Oxygenated solvents",
+            "active": true,
+            "parentId": "12190000"
+          }
+        ]
+      },
+      {
+        "id": "12350000",
+        "type": "L2",
+        "name": "Compounds and mixtures",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12352000",
+            "type": "L3",
+            "name": "Aliphatic and aromatic compounds",
+            "active": true,
+            "parentId": "12350000"
+          },
+          {
+            "id": "12352100",
+            "type": "L3",
+            "name": "Organic derivatives and substituted compounds",
+            "active": true,
+            "parentId": "12350000"
+          },
+          {
+            "id": "12352200",
+            "type": "L3",
+            "name": "Biochemicals",
+            "active": true,
+            "parentId": "12350000"
+          },
+          {
+            "id": "12352300",
+            "type": "L3",
+            "name": "Inorganic compounds",
+            "active": true,
+            "parentId": "12350000"
+          },
+          {
+            "id": "12352400",
+            "type": "L3",
+            "name": "Mixtures",
+            "active": true,
+            "parentId": "12350000"
+          },
+          {
+            "id": "12352500",
+            "type": "L3",
+            "name": "Fixatives",
+            "active": true,
+            "parentId": "12350000"
+          },
+          {
+            "id": "12352600",
+            "type": "L3",
+            "name": "Fluorochemicals",
+            "active": true,
+            "parentId": "12350000"
+          }
+        ]
+      },
+      {
+        "id": "12360000",
+        "type": "L2",
+        "name": "Pharmaceutical drug precursors",
+        "active": true,
+        "parentId": "12000000",
+        "children": [
+          {
+            "id": "12361500",
+            "type": "L3",
+            "name": "Narcotic drug precursors",
+            "active": true,
+            "parentId": "12360000"
+          }
+        ]
+      }
+    ]
+  }
+]
