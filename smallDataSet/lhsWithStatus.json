@@ -1,0 +1,125 @@
+[
+    {
+        "id": "1",
+        "name": "L1A",
+        "descendantStatus": "indeterminate",
+        "children": [
+            {
+                "id": "2",
+                "name": "L2A",
+                "descendantStatus": "indeterminate",
+                "children": [
+                    {
+                        "id": "3",
+                        "name": "L3A",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "4",
+                        "name": "L3B",
+                        "descendantStatus": "unchecked"
+                    },
+                    {
+                        "id": "5",
+                        "name": "L3C",
+                        "descendantStatus": "indeterminate"
+                    },
+                    {
+                        "id": "6",
+                        "name": "L3D",
+                        "descendantStatus": "checked"
+                    }
+                ]
+            },
+            {
+                "id": "7",
+                "name": "L2B",
+                "descendantStatus": "checked",
+                "children" : [
+                    {
+                        "id": "8",
+                        "name": "L3E",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "9",
+                        "name": "L3F",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "10",
+                        "name": "L3G",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "11",
+                        "name": "L3H",
+                        "descendantStatus": "checked"
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "id": "12",
+        "name": "L1B",
+        "descendantStatus": "checked",
+        "children": [
+            {
+                "id": "13",
+                "name": "L2C",
+                "descendantStatus": "checked",
+                "children": [
+                    {
+                        "id": "14",
+                        "name": "L3I",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "15",
+                        "name": "L3J",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "16",
+                        "name": "L3K",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "17",
+                        "name": "L3L",
+                        "descendantStatus": "checked"
+                    }
+                ]
+            },
+            {
+                "id": "18",
+                "name": "L2D",
+                "descendantStatus": "checked",
+                "children": [
+                    {
+                        "id": "19",
+                        "name": "L3M",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "20",
+                        "name": "L3N",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "21",
+                        "name": "L3O",
+                        "descendantStatus": "checked"
+                    },
+                    {
+                        "id": "22",
+                        "name": "L3P",
+                        "descendantStatus": "checked"
+                    }
+                ]
+            }
+        ]
+    }
+]
